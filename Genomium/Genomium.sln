@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genomium", "Genomium\Genomium.csproj", "{61661201-80BD-466F-8DE9-ACD382D7BEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61661201-80BD-466F-8DE9-ACD382D7BEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61661201-80BD-466F-8DE9-ACD382D7BEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61661201-80BD-466F-8DE9-ACD382D7BEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61661201-80BD-466F-8DE9-ACD382D7BEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8461CE2-0DE2-45E3-8E6D-AD6FEC3AA256}
+	EndGlobalSection
+EndGlobal

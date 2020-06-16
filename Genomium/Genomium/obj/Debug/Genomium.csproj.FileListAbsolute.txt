@@ -1,0 +1,10 @@
+C:\Users\vmtoi\source\repos\Genomium\Genomium\bin\Debug\Genomium.exe.config
+C:\Users\vmtoi\source\repos\Genomium\Genomium\bin\Debug\Genomium.exe
+C:\Users\vmtoi\source\repos\Genomium\Genomium\bin\Debug\Genomium.pdb
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.csprojAssemblyReference.cache
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.Properties.Resources.resources
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.csproj.GenerateResource.cache
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.csproj.CoreCompileInputs.cache
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.exe
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.pdb
+C:\Users\vmtoi\source\repos\Genomium\Genomium\obj\Debug\Genomium.MainForm.resources
